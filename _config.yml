@@ -1,4 +1,6 @@
 baseurl: "/docs"
 url: https://dearjunliang.github.io
 source: "./docs"
-include: ["_next", "/docs/_next/", "/docs/_next", "_", "_next/"]
+include:
+  - '_next/*'
+  - 'docs/_next/*'
