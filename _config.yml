@@ -1,3 +1,3 @@
 baseurl: "/docs"
 url: https://dearjunliang.github.io
-source: "/docs"
+source: "./docs"
